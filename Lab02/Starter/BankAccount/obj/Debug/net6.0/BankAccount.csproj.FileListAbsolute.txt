@@ -1,0 +1,14 @@
+D:\Csharp\Labs\Lab02\Starter\BankAccount\bin\Debug\net6.0\BankAccount.exe
+D:\Csharp\Labs\Lab02\Starter\BankAccount\bin\Debug\net6.0\BankAccount.deps.json
+D:\Csharp\Labs\Lab02\Starter\BankAccount\bin\Debug\net6.0\BankAccount.runtimeconfig.json
+D:\Csharp\Labs\Lab02\Starter\BankAccount\bin\Debug\net6.0\BankAccount.dll
+D:\Csharp\Labs\Lab02\Starter\BankAccount\bin\Debug\net6.0\BankAccount.pdb
+D:\Csharp\Labs\Lab02\Starter\BankAccount\obj\Debug\net6.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Labs\Lab02\Starter\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfoInputs.cache
+D:\Csharp\Labs\Lab02\Starter\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfo.cs
+D:\Csharp\Labs\Lab02\Starter\BankAccount\obj\Debug\net6.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Lab02\Starter\BankAccount\obj\Debug\net6.0\BankAccount.dll
+D:\Csharp\Labs\Lab02\Starter\BankAccount\obj\Debug\net6.0\refint\BankAccount.dll
+D:\Csharp\Labs\Lab02\Starter\BankAccount\obj\Debug\net6.0\BankAccount.pdb
+D:\Csharp\Labs\Lab02\Starter\BankAccount\obj\Debug\net6.0\BankAccount.genruntimeconfig.cache
+D:\Csharp\Labs\Lab02\Starter\BankAccount\obj\Debug\net6.0\ref\BankAccount.dll
