@@ -1,0 +1,14 @@
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\bin\Debug\net6.0\TargetShooting.exe
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\bin\Debug\net6.0\TargetShooting.deps.json
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\bin\Debug\net6.0\TargetShooting.runtimeconfig.json
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\bin\Debug\net6.0\TargetShooting.dll
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\bin\Debug\net6.0\TargetShooting.pdb
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\obj\Debug\net6.0\TargetShooting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\obj\Debug\net6.0\TargetShooting.AssemblyInfoInputs.cache
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\obj\Debug\net6.0\TargetShooting.AssemblyInfo.cs
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\obj\Debug\net6.0\TargetShooting.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\obj\Debug\net6.0\TargetShooting.dll
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\obj\Debug\net6.0\refint\TargetShooting.dll
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\obj\Debug\net6.0\TargetShooting.pdb
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\obj\Debug\net6.0\TargetShooting.genruntimeconfig.cache
+D:\Csharp\Labs\Lab03\Shooter\TargetShooting\obj\Debug\net6.0\ref\TargetShooting.dll
