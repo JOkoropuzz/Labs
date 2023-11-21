@@ -1,0 +1,14 @@
+D:\Csharp\Labs\Alg\Loop_demo\bin\Debug\net6.0\Loop_demo.exe
+D:\Csharp\Labs\Alg\Loop_demo\bin\Debug\net6.0\Loop_demo.deps.json
+D:\Csharp\Labs\Alg\Loop_demo\bin\Debug\net6.0\Loop_demo.runtimeconfig.json
+D:\Csharp\Labs\Alg\Loop_demo\bin\Debug\net6.0\Loop_demo.dll
+D:\Csharp\Labs\Alg\Loop_demo\bin\Debug\net6.0\Loop_demo.pdb
+D:\Csharp\Labs\Alg\Loop_demo\obj\Debug\net6.0\Loop_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Labs\Alg\Loop_demo\obj\Debug\net6.0\Loop_demo.AssemblyInfoInputs.cache
+D:\Csharp\Labs\Alg\Loop_demo\obj\Debug\net6.0\Loop_demo.AssemblyInfo.cs
+D:\Csharp\Labs\Alg\Loop_demo\obj\Debug\net6.0\Loop_demo.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Alg\Loop_demo\obj\Debug\net6.0\Loop_demo.dll
+D:\Csharp\Labs\Alg\Loop_demo\obj\Debug\net6.0\refint\Loop_demo.dll
+D:\Csharp\Labs\Alg\Loop_demo\obj\Debug\net6.0\Loop_demo.pdb
+D:\Csharp\Labs\Alg\Loop_demo\obj\Debug\net6.0\Loop_demo.genruntimeconfig.cache
+D:\Csharp\Labs\Alg\Loop_demo\obj\Debug\net6.0\ref\Loop_demo.dll

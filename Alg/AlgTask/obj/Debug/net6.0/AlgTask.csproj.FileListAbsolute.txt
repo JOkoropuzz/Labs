@@ -1,0 +1,14 @@
+D:\Csharp\Labs\Alg\AlgTask\bin\Debug\net6.0\AlgTask.exe
+D:\Csharp\Labs\Alg\AlgTask\bin\Debug\net6.0\AlgTask.deps.json
+D:\Csharp\Labs\Alg\AlgTask\bin\Debug\net6.0\AlgTask.runtimeconfig.json
+D:\Csharp\Labs\Alg\AlgTask\bin\Debug\net6.0\AlgTask.dll
+D:\Csharp\Labs\Alg\AlgTask\bin\Debug\net6.0\AlgTask.pdb
+D:\Csharp\Labs\Alg\AlgTask\obj\Debug\net6.0\AlgTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Labs\Alg\AlgTask\obj\Debug\net6.0\AlgTask.AssemblyInfoInputs.cache
+D:\Csharp\Labs\Alg\AlgTask\obj\Debug\net6.0\AlgTask.AssemblyInfo.cs
+D:\Csharp\Labs\Alg\AlgTask\obj\Debug\net6.0\AlgTask.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Alg\AlgTask\obj\Debug\net6.0\AlgTask.dll
+D:\Csharp\Labs\Alg\AlgTask\obj\Debug\net6.0\refint\AlgTask.dll
+D:\Csharp\Labs\Alg\AlgTask\obj\Debug\net6.0\AlgTask.pdb
+D:\Csharp\Labs\Alg\AlgTask\obj\Debug\net6.0\AlgTask.genruntimeconfig.cache
+D:\Csharp\Labs\Alg\AlgTask\obj\Debug\net6.0\ref\AlgTask.dll
