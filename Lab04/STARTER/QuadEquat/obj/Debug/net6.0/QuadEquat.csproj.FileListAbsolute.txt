@@ -1,0 +1,14 @@
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\bin\Debug\net6.0\QuadEquat.exe
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\bin\Debug\net6.0\QuadEquat.deps.json
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\bin\Debug\net6.0\QuadEquat.runtimeconfig.json
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\bin\Debug\net6.0\QuadEquat.dll
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\bin\Debug\net6.0\QuadEquat.pdb
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\obj\Debug\net6.0\QuadEquat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\obj\Debug\net6.0\QuadEquat.AssemblyInfoInputs.cache
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\obj\Debug\net6.0\QuadEquat.AssemblyInfo.cs
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\obj\Debug\net6.0\QuadEquat.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\obj\Debug\net6.0\QuadEquat.dll
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\obj\Debug\net6.0\refint\QuadEquat.dll
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\obj\Debug\net6.0\QuadEquat.pdb
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\obj\Debug\net6.0\QuadEquat.genruntimeconfig.cache
+D:\Csharp\Labs\Lab04\STARTER\QuadEquat\obj\Debug\net6.0\ref\QuadEquat.dll

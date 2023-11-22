@@ -1,0 +1,14 @@
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\obj\Debug\net6.0\TriangSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\obj\Debug\net6.0\TriangSquare.AssemblyInfoInputs.cache
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\obj\Debug\net6.0\TriangSquare.AssemblyInfo.cs
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\obj\Debug\net6.0\TriangSquare.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\bin\Debug\net6.0\TriangSquare.exe
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\bin\Debug\net6.0\TriangSquare.deps.json
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\bin\Debug\net6.0\TriangSquare.runtimeconfig.json
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\bin\Debug\net6.0\TriangSquare.dll
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\bin\Debug\net6.0\TriangSquare.pdb
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\obj\Debug\net6.0\TriangSquare.dll
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\obj\Debug\net6.0\refint\TriangSquare.dll
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\obj\Debug\net6.0\TriangSquare.pdb
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\obj\Debug\net6.0\TriangSquare.genruntimeconfig.cache
+D:\Csharp\Labs\Lab04\STARTER\TriangSquare\obj\Debug\net6.0\ref\TriangSquare.dll

@@ -1,0 +1,6 @@
+D:\Csharp\Labs\Lab04\STARTER\UTILITY\bin\Debug\Utils.exe
+D:\Csharp\Labs\Lab04\STARTER\UTILITY\bin\Debug\Utils.pdb
+D:\Csharp\Labs\Lab04\STARTER\UTILITY\obj\Debug\Utils.csproj.AssemblyReference.cache
+D:\Csharp\Labs\Lab04\STARTER\UTILITY\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Lab04\STARTER\UTILITY\obj\Debug\Utils.exe
+D:\Csharp\Labs\Lab04\STARTER\UTILITY\obj\Debug\Utils.pdb
