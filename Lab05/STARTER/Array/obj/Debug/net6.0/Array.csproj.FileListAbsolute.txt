@@ -1,0 +1,14 @@
+D:\Csharp\Labs\Lab05\STARTER\Array\bin\Debug\net6.0\Array.exe
+D:\Csharp\Labs\Lab05\STARTER\Array\bin\Debug\net6.0\Array.deps.json
+D:\Csharp\Labs\Lab05\STARTER\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\Csharp\Labs\Lab05\STARTER\Array\bin\Debug\net6.0\Array.dll
+D:\Csharp\Labs\Lab05\STARTER\Array\bin\Debug\net6.0\Array.pdb
+D:\Csharp\Labs\Lab05\STARTER\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Labs\Lab05\STARTER\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\Csharp\Labs\Lab05\STARTER\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\Csharp\Labs\Lab05\STARTER\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Lab05\STARTER\Array\obj\Debug\net6.0\Array.dll
+D:\Csharp\Labs\Lab05\STARTER\Array\obj\Debug\net6.0\refint\Array.dll
+D:\Csharp\Labs\Lab05\STARTER\Array\obj\Debug\net6.0\Array.pdb
+D:\Csharp\Labs\Lab05\STARTER\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+D:\Csharp\Labs\Lab05\STARTER\Array\obj\Debug\net6.0\ref\Array.dll
