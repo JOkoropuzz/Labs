@@ -1,0 +1,6 @@
+D:\Csharp\Labs\Lab07\STARTER\MOREMETHODS\bin\Debug\MoreMethods.exe
+D:\Csharp\Labs\Lab07\STARTER\MOREMETHODS\bin\Debug\MoreMethods.pdb
+D:\Csharp\Labs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.csproj.AssemblyReference.cache
+D:\Csharp\Labs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.exe
+D:\Csharp\Labs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.pdb

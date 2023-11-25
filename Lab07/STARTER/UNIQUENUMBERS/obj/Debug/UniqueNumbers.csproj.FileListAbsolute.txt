@@ -1,0 +1,6 @@
+D:\Csharp\Labs\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe
+D:\Csharp\Labs\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.pdb
+D:\Csharp\Labs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.AssemblyReference.cache
+D:\Csharp\Labs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.exe
+D:\Csharp\Labs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.pdb
