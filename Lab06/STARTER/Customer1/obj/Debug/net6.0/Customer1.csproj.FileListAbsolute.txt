@@ -1,0 +1,14 @@
+D:\Csharp\Labs\Lab06\STARTER\Customer1\bin\Debug\net6.0\Customer1.exe
+D:\Csharp\Labs\Lab06\STARTER\Customer1\bin\Debug\net6.0\Customer1.deps.json
+D:\Csharp\Labs\Lab06\STARTER\Customer1\bin\Debug\net6.0\Customer1.runtimeconfig.json
+D:\Csharp\Labs\Lab06\STARTER\Customer1\bin\Debug\net6.0\Customer1.dll
+D:\Csharp\Labs\Lab06\STARTER\Customer1\bin\Debug\net6.0\Customer1.pdb
+D:\Csharp\Labs\Lab06\STARTER\Customer1\obj\Debug\net6.0\Customer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Labs\Lab06\STARTER\Customer1\obj\Debug\net6.0\Customer1.AssemblyInfoInputs.cache
+D:\Csharp\Labs\Lab06\STARTER\Customer1\obj\Debug\net6.0\Customer1.AssemblyInfo.cs
+D:\Csharp\Labs\Lab06\STARTER\Customer1\obj\Debug\net6.0\Customer1.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Lab06\STARTER\Customer1\obj\Debug\net6.0\Customer1.dll
+D:\Csharp\Labs\Lab06\STARTER\Customer1\obj\Debug\net6.0\refint\Customer1.dll
+D:\Csharp\Labs\Lab06\STARTER\Customer1\obj\Debug\net6.0\Customer1.pdb
+D:\Csharp\Labs\Lab06\STARTER\Customer1\obj\Debug\net6.0\Customer1.genruntimeconfig.cache
+D:\Csharp\Labs\Lab06\STARTER\Customer1\obj\Debug\net6.0\ref\Customer1.dll
