@@ -1,0 +1,14 @@
+D:\Csharp\Labs\Lab09\BookStore\bin\Debug\net6.0\BookStore.exe
+D:\Csharp\Labs\Lab09\BookStore\bin\Debug\net6.0\BookStore.deps.json
+D:\Csharp\Labs\Lab09\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+D:\Csharp\Labs\Lab09\BookStore\bin\Debug\net6.0\BookStore.dll
+D:\Csharp\Labs\Lab09\BookStore\bin\Debug\net6.0\BookStore.pdb
+D:\Csharp\Labs\Lab09\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\Labs\Lab09\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+D:\Csharp\Labs\Lab09\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+D:\Csharp\Labs\Lab09\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+D:\Csharp\Labs\Lab09\BookStore\obj\Debug\net6.0\BookStore.dll
+D:\Csharp\Labs\Lab09\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+D:\Csharp\Labs\Lab09\BookStore\obj\Debug\net6.0\BookStore.pdb
+D:\Csharp\Labs\Lab09\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+D:\Csharp\Labs\Lab09\BookStore\obj\Debug\net6.0\ref\BookStore.dll
